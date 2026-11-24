@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://muhammadsaeedqureshi.github.io/sitemap.xml
